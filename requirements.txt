@@ -1,0 +1,5 @@
+langchain_community
+langchain
+flask
+langchain_text_splitters
+pdfplumber
